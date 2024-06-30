@@ -4,7 +4,7 @@ layout: default
 
 # Protect Your Privacy
 
-Pika Parking takes your privacy very seriously. Therefore, we offer two easy options for those who wish to remove their data from our platform.
+Pika Parking takes your privacy very seriously (see our [privacy policy](./privacy_policy.md)). Therefore, we offer two easy options for those who wish to remove their data from our platform.
 
 ## Delete Data But Keep Your Account
 
