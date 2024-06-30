@@ -72,10 +72,10 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-    - **Session Cookies**: We use Session Cookies to operate our Service.
-    - **Preference Cookies**: We use Preference Cookies to remember your preferences and various settings.
-    - **Security Cookies**: We use Security Cookies for security purposes.
-    - **Advertising Cookies**: Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+- **Session Cookies**: We use Session Cookies to operate our Service.
+- **Preference Cookies**: We use Preference Cookies to remember your preferences and various settings.
+- **Security Cookies**: We use Security Cookies for security purposes.
+- **Advertising Cookies**: Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
 
 ### Other Data
 
@@ -85,19 +85,19 @@ While using our Service, we may also collect the following information: sex, age
 
 Spott, Inc. uses the collected data for various purposes:
 
-    - to provide and maintain our Service;
-    - to notify you about changes to our Service;
-    - to allow you to participate in interactive features of our Service when you choose to do so;
-    - to provide customer support;
-    - to gather analysis or valuable information so that we can improve our Service;
-    - to monitor the usage of our Service;
-    - to detect, prevent and address technical issues;
-    - to fulfill any other purpose for which you provide it;
-    - to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
-    - to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
-    - to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
-    - in any other way we may describe when you provide the information;
-    - for any other purpose with your consent.
+- to provide and maintain our Service;
+- to notify you about changes to our Service;
+- to allow you to participate in interactive features of our Service when you choose to do so;
+- to provide customer support;
+- to gather analysis or valuable information so that we can improve our Service;
+- to monitor the usage of our Service;
+- to detect, prevent and address technical issues;
+- to fulfill any other purpose for which you provide it;
+- to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+- to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
+- to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
+- in any other way we may describe when you provide the information;
+- for any other purpose with your consent.
 
 ## 6. Retention of Data
 
@@ -134,7 +134,7 @@ The security of your data is important to us but remember that no method of tran
 
 ## 10. Your Data Protection Rights Under General Data Protection Regulation-
 
-If you are a resident of the European Union- and European Economic Area-, you have certain data protection rights, covered by GDPR. – See more at https://eur-lex.europa.eu/eli/reg/2016/679/oj
+If you are a resident of the European Union- and European Economic Area-, you have certain data protection rights, covered by GDPR. – See more at [https://eur-lex.europa.eu/eli/reg/2016/679/oj](https://eur-lex.europa.eu/eli/reg/2016/679/oj)
 
 We aim to take reasonable steps to allow you to correct, amend, delete, or limit the use of your Personal Data.
 
@@ -148,7 +148,7 @@ You have the right to complain to a Data Protection Authority about our collecti
 
 ## 11. Your Data Protection Rights under the California Privacy Protection Act-
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivable the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law’s reach stretches well beyond California to require a person or company in the United States (and conceivable the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. – See more at: [https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/](https://consumercal.org/about-cfc/cfc-education-foundation/california-online-privacy-protection-act-caloppa-3/)
 
 According to CalOPPA we agree to the following:- users can visit our site anonymously;- our Privacy Policy link includes the word “Privacy”, and can easily be found on the page specified above on the home page of our website;- users will be notified of any privacy policy changes on our Privacy Policy Page;- users are able to change their personal information by emailing us at park@pikaparking.com.
 
@@ -182,9 +182,8 @@ Please note, if you ask us to delete or stop selling your data, it may impact yo
 
 To exercise your California data protection rights described above, please send your request(s) by one of the following means:
 
-     By email: park@pikaparking.com
-
-     By mail: 1000 W McNab Road, Suite 132, Pompano Beach, FL 33069
+- By email: park@pikaparking.com
+- By mail: 1000 W McNab Road, Suite 132, Pompano Beach, FL 33069
 
 Your data protection rights, described above, are covered by the CCPA, short for the California Consumer Privacy Act. To find out more, visit the official California Legislative Information website. The CCPA took effect on 01/01/2020.
 
@@ -202,21 +201,21 @@ We may use third-party Service Providers to monitor and analyze the use of our S
 
 Google Analytics is a web analytics service offered by Google that tracks and reports website traffic. Google uses the data collected to track and monitor the use of our Service. This data is shared with other Google services. Google may use the collected data to contextualise and personalise the ads of its own advertising network.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
-We also encourage you to review the Google's policy for safeguarding your data: https://support.google.com/analytics/answer/6004245.
+We also encourage you to review the Google's policy for safeguarding your data: [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245).
 
 ### Firebase
 
 Firebase is analytics service provided by Google Inc.
 
-You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: https://policies.google.com/privacy?hl=en
+You may opt-out of certain Firebase features through your mobile device settings, such as your device advertising settings or by following the instructions provided by Google in their Privacy Policy: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
-For more information on what type of information Firebase collects, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
+For more information on what type of information Firebase collects, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 ### Segment.io
 
-Segment.io is a web traffic analysis tool. You can read the Privacy Policy for Segment.io here: https://segment.com/legal/privacy/.
+Segment.io is a web traffic analysis tool. You can read the Privacy Policy for Segment.io here: [https://segment.com/legal/privacy/](https://segment.com/legal/privacy/).
 
 ## 15. CI/CD tools
 
@@ -228,7 +227,7 @@ GitHub is provided by GitHub, Inc.
 
 GitHub is a development platform to host and review code, manage projects, and build software.
 
-For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: https://help.github.com/en/articles/github-privacy-statement.
+For more information on what data GitHub collects for what purpose and how the protection of the data is ensured, please visit GitHub Privacy Policy page: [https://help.github.com/en/articles/github-privacy-statement](https://help.github.com/en/articles/github-privacy-statement).
 
 ### GitLab CI/CD
 
@@ -238,13 +237,13 @@ GitLab CI (Continuous Integration) service is a part of GitLab that build and te
 
 GitLab CD (Continuous Deployment) is a software service that places the changes of every code in the production which results in every day deployment of production.
 
-For more information on what data GitLab CI/CD collects for what purpose and how the protection of the data is ensured, please visit GitLab CI/CD Privacy Policy page: https://about.gitlab.com/privacy/.
+For more information on what data GitLab CI/CD collects for what purpose and how the protection of the data is ensured, please visit GitLab CI/CD Privacy Policy page: [https://about.gitlab.com/privacy/](https://about.gitlab.com/privacy/).
 
 ### Travis CI
 
 Travis CI is a distributed continuous integration service to build and test projects hosted at GitHub.
 
-For more information on what data Travis CI collects for what purpose and how the protection of the data is ensured, please visit Travis CI Privacy Policy page: https://docs.travis-ci.com/legal/privacy-policy.
+For more information on what data Travis CI collects for what purpose and how the protection of the data is ensured, please visit Travis CI Privacy Policy page: [https://docs.travis-ci.com/legal/privacy-policy](https://docs.travis-ci.com/legal/privacy-policy).
 
 ### Bitrise
 
@@ -252,7 +251,7 @@ Bitrise is provided by Bitrise Limited.
 
 Bitrise is a Continuous Integration and Delivery (CI/CD) Platform as a Service with a main focus on mobile app development (iOS, Android, React Native, Flutter, and so on).
 
-For more information on what data Bitrise collects for what purpose and how the protection of the data is ensured, please visit Bitrise Privacy Notice page: https://www.bitrise.io/privacy.
+For more information on what data Bitrise collects for what purpose and how the protection of the data is ensured, please visit Bitrise Privacy Notice page: [https://www.bitrise.io/privacy](https://www.bitrise.io/privacy).
 
 ### Fastlane
 
@@ -260,19 +259,19 @@ Fastlane is provided by Google, Inc.
 
 Fastlane is a continuous delivery tool for iOS and Android apps.
 
-For more information on what data Fastlane collects for what purpose and how the protection of the data is ensured, please visit the Google Privacy Policy page: https://policies.google.com/privacy.
+For more information on what data Fastlane collects for what purpose and how the protection of the data is ensured, please visit the Google Privacy Policy page: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 ### Codacy
 
 Codacy is an automated code analysis/quality tool that helps developers ship better software, faster.
 
-For more information on what data Codacy collect for what purpose and how the protection of the data is ensured, please visit Codacy Privacy Policy page: https://www.codacy.com/privacy.
+For more information on what data Codacy collect for what purpose and how the protection of the data is ensured, please visit Codacy Privacy Policy page: [https://www.codacy.com/privacy](https://www.codacy.com/privacy).
 
 ### Codecov
 
 Codecov provides highly integrated tools to group, merge, archive and compare coverage reports.
 
-For more information on what data Codecov collects for what purpose and how the protection of the data is ensured, please visit their Privacy Policy page: https://codecov.io/privacy.
+For more information on what data Codecov collects for what purpose and how the protection of the data is ensured, please visit their Privacy Policy page: [https://codecov.io/privacy](https://codecov.io/privacy).
 
 ### Codemagic
 
@@ -280,13 +279,13 @@ Codemagic is provided by Nevercode LTD.
 
 Codemagic is the official CI/CD solution dedicated just for Flutter apps.
 
-For more information on what data Codemagic collects for what purpose and how the protection of the data is ensured, please visit their Terms and conditions page: https://codemagic.io/terms/.
+For more information on what data Codemagic collects for what purpose and how the protection of the data is ensured, please visit their Terms and conditions page: [https://codemagic.io/terms/](https://codemagic.io/terms/).
 
 ### Crowdin
 
 Crowdin is a cloud-based solution that streamlines localization management to effectively manage all of your multilingual content.
 
-For more information on what data Crowdin collects for what purpose and how the protection of the data is ensured, please visit Crowdin Privacy Policy page: https://crowdin.com/privacy-policy/#16-how-to-contact-us.
+For more information on what data Crowdin collects for what purpose and how the protection of the data is ensured, please visit Crowdin Privacy Policy page: [https://crowdin.com/privacy-policy/#16-how-to-contact-us](https://crowdin.com/privacy-policy/#16-how-to-contact-us).
 
 ### CircleCI
 
@@ -294,7 +293,7 @@ CircleCI is provided by Circle Internet Services, Inc.
 
 CircleCI is Continuous Integration, a development practice which is being used by software teams allowing them to build, test and deploy applications easier and quicker on multiple platforms.
 
-For more information on what data Circle CI collects for what purpose and how the protection of the data is ensured, please visit Circle CI Privacy Policy page: https://circleci.com/privacy/.
+For more information on what data Circle CI collects for what purpose and how the protection of the data is ensured, please visit Circle CI Privacy Policy page: [https://circleci.com/privacy/](https://circleci.com/privacy/).
 
 ## 17. Behavioral Remarketing
 
@@ -304,23 +303,23 @@ Spott, Inc. uses remarketing services to advertise on third party websites to yo
 
 Google Ads (Adwords) remarketing service is provided by Google Inc.
 
-You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: http://www.google.com/settings/ads
+You can opt-out of Google Analytics for Display Advertising and customize the Google Display Network ads by visiting the Google Ads Settings page: [http://www.google.com/settings/ads](http://www.google.com/settings/ads)
 
-Google also recommends installing the Google Analytics Opt-out Browser Add-on – https://tools.google.com/dlpage/gaoptout – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
+Google also recommends installing the Google Analytics Opt-out Browser Add-on – [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout) – for your web browser. Google Analytics Opt-out Browser Add-on provides visitors with the ability to prevent their data from being collected and used by Google Analytics.
 
-For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: https://policies.google.com/privacy?hl=en
+For more information on the privacy practices of Google, please visit the Google Privacy Terms web page: [https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
 
 ### Facebook
 
 Facebook remarketing service is provided by Facebook Inc.
 
-You can learn more about interest-based advertising from Facebook by visiting this page: https://www.facebook.com/help/164968693837950
+You can learn more about interest-based advertising from Facebook by visiting this page: [https://www.facebook.com/help/164968693837950](https://www.facebook.com/help/164968693837950)
 
-To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: https://www.facebook.com/help/568137493302217
+To opt-out from Facebook's interest-based ads, follow these instructions from Facebook: [https://www.facebook.com/help/568137493302217](https://www.facebook.com/help/568137493302217)
 
-Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA http://www.aboutads.info/choices/, the Digital Advertising Alliance of Canada in Canada http://youradchoices.ca/ or the European Interactive Digital Advertising Alliance in Europe http://www.youronlinechoices.eu/, or opt-out using your mobile device settings.
+Facebook adheres to the Self-Regulatory Principles for Online Behavioural Advertising established by the Digital Advertising Alliance. You can also opt-out from Facebook and other participating companies through the Digital Advertising Alliance in the USA [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/), the Digital Advertising Alliance of Canada in Canada [http://youradchoices.ca/](http://youradchoices.ca/) or the European Interactive Digital Advertising Alliance in Europe [http://www.youronlinechoices.eu/](http://www.youronlinechoices.eu/), or opt-out using your mobile device settings.
 
-For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: https://www.facebook.com/privacy/explanation
+For more information on the privacy practices of Facebook, please visit Facebook's Data Policy: [https://www.facebook.com/privacy/explanation](https://www.facebook.com/privacy/explanation)
 
 ## 18. Payments
 
@@ -332,15 +331,15 @@ The payment processors we work with are:
 
 ### Apple Store In-App Payments:
 
-Their Privacy Policy can be viewed at: https://www.apple.com/legal/privacy/en-ww/ / https://support.apple.com/en-us/HT203027
+Their Privacy Policy can be viewed at: [https://www.apple.com/legal/privacy/en-ww/](https://www.apple.com/legal/privacy/en-ww/) and [https://support.apple.com/en-us/HT203027](https://support.apple.com/en-us/HT203027)
 
 ### Google Play In-App Payments:
 
-Their Privacy Policy can be viewed at: https://policies.google.com/privacy?hl=en&gl=us / https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en
+Their Privacy Policy can be viewed at: [https://policies.google.com/privacy?hl=en&gl=us](https://policies.google.com/privacy?hl=en&gl=us) and [https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en)
 
 ### Stripe:
 
-Their Privacy Policy can be viewed at: https://stripe.com/us/privacy
+Their Privacy Policy can be viewed at: [https://stripe.com/us/privacy](https://stripe.com/us/privacy)
 
 ## 19. Links to Other Sites
 
